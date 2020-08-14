@@ -1,0 +1,1 @@
+java -cp target/classes:jars/* main.java.social.SocialMagnetMenu

@@ -1,0 +1,1 @@
+javac -d target/classes/ -cp jars/*:src src/main/java/social/SocialMagnetMenu.java

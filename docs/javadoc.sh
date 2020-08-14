@@ -1,0 +1,1 @@
+/usr/local/opt/openjdk/bin/javadoc --allow-script-in-comments @options @packages
